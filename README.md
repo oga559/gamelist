@@ -18,7 +18,7 @@ URL: https://docs.google.com/presentation/d/1Gwpzf_DnhA-zYm7Mm9fkFdYb5d4hIFTAk2S
 <h2>役割</h2>
 <ul>
   <li>マッチ棒のゲームと簡単なクイズゲームを作成しました。</li>
-  <li>初めてOpencvとMediaPipeを触ったので</li>
+  <li>デプロイ方法の調査</li>
 </ul>
 
 
