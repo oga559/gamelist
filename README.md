@@ -5,6 +5,7 @@
 URL: https://docs.google.com/presentation/d/1Gwpzf_DnhA-zYm7Mm9fkFdYb5d4hIFTAk2Sc-R17ilw/edit?usp=sharing</p>
 
 
+<img width="625" alt="1654492374283-NNHcsX4yyt" src="https://user-images.githubusercontent.com/70639495/216829734-64255bfc-d5f2-43bb-88d0-de30d84374a9.png">
 
 <h2>参加理由</h2>
 <ul>
