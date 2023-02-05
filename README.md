@@ -4,11 +4,15 @@
 こちらは発表で使ったスライドです。<br>
 URL: https://docs.google.com/presentation/d/1Gwpzf_DnhA-zYm7Mm9fkFdYb5d4hIFTAk2Sc-R17ilw/edit?usp=sharing</p>
 
+
+
 <h2>参加理由</h2>
 <ul>
   <li>ハッカソンで賞が欲しかった</li>
   <li>知らないメンバーと開発することで色々な知見が得られると思った</li>
 </ul>
+
+
 
 <h2>役割</h2>
 <ul>
@@ -17,8 +21,10 @@ URL: https://docs.google.com/presentation/d/1Gwpzf_DnhA-zYm7Mm9fkFdYb5d4hIFTAk2S
 </ul>
 
 
+
 <h2>結果</h2>
 <b>最優秀賞を頂くことができました！！</b>
+
 
 <h2>得たもの</h2>
 <ul>
@@ -26,10 +32,10 @@ URL: https://docs.google.com/presentation/d/1Gwpzf_DnhA-zYm7Mm9fkFdYb5d4hIFTAk2S
   <li>期間が短かったので、どのように効率的に開発するか考えることができ、うまくいった</li>
 </ul>
 
+
+
 <h2>反省点</h2>
 <ul>
   <li>ゲームとしては、クリアしたときの演出が地味</li>
   <li>デプロイしたいが、クラウド上でopencvのビデオキャプチャが使えないため断念※Pyinstallerをexe化すれば配布可能</li>
 </ul>
-
-
